@@ -1,5 +1,6 @@
 # Dynamically creating objects to ListBox with Python on Ubuntu Touch
 [[статья на русском]](http://dtc1.ru/Динамическое%20создание%20объектов,%20то%20ли%20ListBox%20с%20картинками%20Python%20на%20Ubuntu%20Touch)
+
 The result of executing a Python function can be not only information, but also objects. In this example, we'll show you how to create a ListBox with pictures.
 
 **Let's create a new project in Clickable**, enter the command in the terminal:
