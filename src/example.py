@@ -11,6 +11,6 @@ txt = [
 ]
 
 def speak():
-    img="../src/img/"+str(random.randint(0,18))+".png"
+    img="../src/img/"+str(random.randint(1,19))+".png"
     text=txt[random.randint(0,len(txt))]
     return [img,text]
